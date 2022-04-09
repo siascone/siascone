@@ -1,3 +1,8 @@
+<div>
+   <img src-"https://media.giphy.com/media/Ssr2HaSSqw8ggmLHUO/giphy.gif" width="100" />
+</div>
+
+
 ### Hi there 👋
 
 <!--
