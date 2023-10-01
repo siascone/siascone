@@ -14,7 +14,7 @@ I am a programmer consumed by nature, sound and how things work. I have a backgr
 
 Whether making music, crafting DIY projects or repurposing electronics, I have a creative solutions side that I have always enjoyed exploring and I am happy I get to do that with software engineering. 
 
-I love learning new technologies and the logic and creative challenges that come along with them and I am always up for a good bug hunt. 
+I love learning new technologies and exploring the logic and creative challenges that come along with them and I am always up for a good bug hunt. 
 
 Happy coding!
 
