@@ -10,13 +10,13 @@
 
 ### Hi there 👋
 
-I am a programmer consumed by nature, sound and how things work. I have a background in contemporary composition and a passion for the environment.
+I’m a software engineer and IT specialist who’s always been curious about how things work—whether it was composing experimental music, taking apart electronics, or later, debugging code and optimizing systems. My journey started in sound and creativity, and evolved into a love for building digital and technical tools that are both functional and thoughtful.
 
-Whether making music, crafting DIY projects or repurposing electronics, I have a creative solutions side that I have always enjoyed exploring and I am happy I get to do that with software engineering. 
+I bring a background in creative thinking, a passion for environmental design, and years of hands-on experience teaching, mentoring, and solving technical problems. From writing front-end code to supporting internal tech infrastructure, I care about making tool and systems smoother—for both the people who build them and the people who use them.
 
-I love learning new technologies and exploring the logic and creative challenges that come along with them and I am always up for a good bug hunt. 
+At the heart of my work is a commitment to learning, collaboration, and helping others succeed. I believe great tech isn’t just about clever code—it’s about clarity, empathy, and resilience. Whether I’m on a team shipping features or helping someone get their environment up and running, I’m in my element when I’m solving problems and connecting the dots.
 
-Happy coding!
+Happy Coding, 
 
 -Spencer
 
